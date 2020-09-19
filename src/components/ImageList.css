@@ -8,3 +8,27 @@
 .image-list img {
     width: 250px;
 }
+
+.mainText {
+    padding-left: 10px;
+    padding-bottom: 20px;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+h2 {
+    padding-left: 10px;
+    padding-top: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 35px;
+}
+
+.searchPadding {
+    margin-bottom: 4em;
+    margin-top: 4em;
+}
+
+span {
+    color: #22c1c3;
+}
